@@ -1,0 +1,7 @@
+Não é necessario executar o script sql, ja vai ser criado caso não exista em connection.php
+
+Para logar: (É possivel criar uma conta tambem :D)
+	Email: admin@email.com
+	Senha: 1234
+
+Link Github: https://github.com/LamersV/Breewers
